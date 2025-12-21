@@ -1,4 +1,4 @@
-// 5) Faça um pseudocódigo que receba dois números inteiros e mostre o
+// 5) Faça um codigo em java que receba dois números inteiros e mostre o
 //resultado das seguintes operações:
 //a) Soma dos dois números
 //b) Subtração do primeiro pelo segundo

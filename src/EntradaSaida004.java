@@ -1,4 +1,4 @@
-// 4) Faça um pseudocódigo que calcule e mostre o IMC de uma pessoa, a partir
+// 4) Faça um codigo em java que calcule e mostre o IMC de uma pessoa, a partir
 //de seu peso e altura. Sabe-se que o cálculo do IMC é dado por: peso dividido
 //pela altura ao quadrado.
 import java.util.Scanner;

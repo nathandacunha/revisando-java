@@ -1,4 +1,4 @@
-//Faça um pseudocódigo que peça ao usuário um número inteiro. A partir
+//Faça um codigo em java que peça ao usuário um número inteiro. A partir
 //dessa entrada, mostre na tela: o número, seu antecessor e seu sucessor. Ex.:
 //“O número informado foi 30, o antecessor é 29 e o sucessor é 31”.
 import java.util.Scanner;
